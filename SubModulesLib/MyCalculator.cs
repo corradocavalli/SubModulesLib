@@ -12,7 +12,6 @@
             //Another lib author change 4
             //Another lib author change 5
             //Added from submodule 2
-            // Another lib author change 6
             return a + b;
         }
     }
